@@ -1,3 +1,10 @@
+'''
+Well...
+I tried to be productive and this is the result
+I just read the tkinter manual and google how to make a mesage box in tkinter
+windowass
+i suck at naming things
+'''
 import tkinter as tk
 import ttkbootstrap as ttk
 import random as rnd
